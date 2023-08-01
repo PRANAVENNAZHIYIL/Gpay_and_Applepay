@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gpayandapplepay/confirm_page.dart';
+import 'package:gpayandapplepay/presentation/confirm_page.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:swipeable_button_view/swipeable_button_view.dart';
 
