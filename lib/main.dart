@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gpayandapplepay/paymentpage.dart';
+import 'package:gpayandapplepay/slidepay.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const PaymentPage());
+        // home: const PaymentPage());
+        home: const HomePage());
   }
 }
